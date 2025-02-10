@@ -1,0 +1,5 @@
+web_app_name = "kumba12356"
+web_app_location = "ukwest"
+web_app_always_on = "false"
+web_app_use_32_bit_worker = "true"
+web_app_sku_name = "F1"
